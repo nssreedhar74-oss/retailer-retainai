@@ -1,0 +1,10 @@
+RETAILER RETAINAI - START HERE
+
+1. Extract this folder and open a terminal inside it.
+2. Install dependencies:   pip install -r requirements.txt
+3. Run the app:            streamlit run app.py
+4. Open the local URL shown by Streamlit (first load takes ~30-40 seconds).
+5. Optional tests:         python -m unittest discover -s tests -v
+
+See README.md for the data format, method, limitations and the exam demonstration flow.
+The app uses synthetic data. Never present synthetic metrics as actual distributor performance.
